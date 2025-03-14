@@ -24,26 +24,21 @@ Your context matters. A lot. Create AI apps that respond to your challenges. And
 
 ### Big Ideas
 
-??? info "🧮 AI isn't magic... it's math"
+??? info " AI isn't magic... it's math"
     Understanding the fundamental principles behind AI demystifies it and empowers you to use it effectively.
-
-    !!! note "Did You Know?"
         Behind every AI system are algorithms and data that you can learn to understand!
 
-??? warning "⚖️ AI has both great potential and great risks"
+??? warning "AI has both great potential and great risks"
     We explore AI's possibilities while critically examining its limitations and ethical implications.
-
-    !!! warning "Think Critically"
         Every AI tool comes with tradeoffs. Learn to identify both opportunities and challenges!
 
-??? success "🤝 To learn about AI, you have to play with AI in community"
+??? success "To learn about AI, you have to play with AI in community"
     Hands-on experimentation and collaborative learning create deeper understanding than passive consumption.
-
-    !!! success "Learning Together"
         Your questions and insights help everyone learn better. Don't be afraid to experiment!
 
-??? tip "🌟 You're already an AI person"
+??? note "You're already an AI person"
     Everyone interacts with AI daily, and everyone deserves the literacy to shape how AI affects their lives.
+        You will build your AI intution over time as you become more critical consumers and creators of AI.
 
 
 [Get Started](https://wymankhuu.github.io/playlab-learning/getting-started/){ .md-button .md-button--primary }
