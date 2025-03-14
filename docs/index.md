@@ -22,30 +22,28 @@ Your context matters. A lot. Create AI apps that respond to your challenges. And
 - :material-account-group: **Share**  
   As you learn, share your work and learn from others. Together, we can discover how to use AI to advance education for all.
 
-  :fontawesome-regular-face-laugh-wink:
-
 ### Big Ideas
 
-- 🧮 **AI isn't magic... it's math**  
-  Understanding the fundamental principles behind AI demystifies it and empowers you to use it effectively.
+??? info "🧮 AI isn't magic... it's math"
+    Understanding the fundamental principles behind AI demystifies it and empowers you to use it effectively.
 
-!!! note "Did You Know?"
-    Behind every AI system are algorithms and data that you can learn to understand!
+    !!! note "Did You Know?"
+        Behind every AI system are algorithms and data that you can learn to understand!
 
-- ⚖️ **AI has both great potential and great risks**  
-  We explore AI's possibilities while critically examining its limitations and ethical implications.
+??? warning "⚖️ AI has both great potential and great risks"
+    We explore AI's possibilities while critically examining its limitations and ethical implications.
 
-!!! warning "Think Critically"
-    Every AI tool comes with tradeoffs. Learn to identify both opportunities and challenges!
+    !!! warning "Think Critically"
+        Every AI tool comes with tradeoffs. Learn to identify both opportunities and challenges!
 
-- 🤝 **To learn about AI, you have to play with AI in community**  
-  Hands-on experimentation and collaborative learning create deeper understanding than passive consumption.
+??? success "🤝 To learn about AI, you have to play with AI in community"
+    Hands-on experimentation and collaborative learning create deeper understanding than passive consumption.
 
-!!! success "Learning Together"
-    Your questions and insights help everyone learn better. Don't be afraid to experiment!
+    !!! success "Learning Together"
+        Your questions and insights help everyone learn better. Don't be afraid to experiment!
 
-- 🌟 **You're already an AI person**  
-  Everyone interacts with AI daily, and everyone deserves the literacy to shape how AI affects their lives.
+??? tip "🌟 You're already an AI person"
+    Everyone interacts with AI daily, and everyone deserves the literacy to shape how AI affects their lives.
 
 
 [Get Started](https://wymankhuu.github.io/playlab-learning/getting-started/){ .md-button .md-button--primary }
