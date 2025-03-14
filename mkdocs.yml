@@ -1,0 +1,44 @@
+site_name: Playlab Learning Hub
+site_url: https://wymankhuu.github.io/playlab-learning/
+repo_url: https://github.com/wymankhuu/playlab-learning
+
+#Theme
+theme:
+  name: material
+  font:
+    text: DM sans
+  icon:
+    logo: fontawesome/solid/p
+    favicon: assets/favicon.ico
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: indigo
+      accent: deep purple
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: indigo
+      accent: indigo
+      
+    # Emojis
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+copyright: Copyright &copy; 2025 Playlab
+ 
