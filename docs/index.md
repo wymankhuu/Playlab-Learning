@@ -1,37 +1,30 @@
-# Welcome to the Playlab Learning Hub
+# **Welcome to the Playlab Learning Hub**
 
-**Where curious minds and playful learners build AI literacy** ✨
-
-We're thrilled to have you join our community. You're in the right place to become a critical consumer and creator of AI for your context.
-
-:beer:
+We're thrilled to have you join the Playlab community. We hope that you continue to learng with us as you become a critical consumer and creator of AI for your context.
 
 ## Overview
 
-Playlab Learning Hub makes learning fun and engaging through self-guided exploration. Whether you're a beginner or an expert, our platform helps you build skills through play-based learning experiences.
+Playlab Learning Hub is your one stop shop for a self-guided learning exploration. Whether you're a beginner or an expert, our we hope that you can find what you're looking for to support you in your Playlab journey.
 
-### Features
+### Values
+Your learning community and workshop for AI
+We're at the start of the AI era. We believe an open-source, community-driven approach is key to harnessing AI in education. We're a community of learners, supporting each other in creating, experimenting, and using AI.
 
 - :material-book-open-variant: **Learn**  
-  Understand what AI means for you through workshops rooted in your unique context.
+Understand what AI means for you. Build AI literacy by starting with hands-on workshops, rooted in your unique issues and context.
 
 - :material-hammer-wrench: **Create**  
-  Build AI applications that respond to your specific challenges.
+Your context matters. A lot. Create AI apps that respond to your challenges. And that bring your ideas to life.
 
 - :material-flask: **Experiment**  
-  Refine and evaluate AI tools through guided exploration.
+  Responsible AI requires experimentation. We help you refine, evaluate, and responsibly use your AI tools.
 
 - :material-account-group: **Share**  
-  Contribute your work and learn from others in our community.
+  As you learn, share your work and learn from others. Together, we can discover how to use AI to advance education for all.
 
   :fontawesome-regular-face-laugh-wink:
 
-## Our Learning Philosophy
-
-!!! tip "Learning Should Be Fun"
-    We believe the best learning happens when you're enjoying yourself. Playful exploration leads to deeper understanding!
-
-### Learning Tenets
+### Big Ideas
 
 - 🧮 **AI isn't magic... it's math**  
   Understanding the fundamental principles behind AI demystifies it and empowers you to use it effectively.
