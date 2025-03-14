@@ -9,7 +9,6 @@ We're thrilled to have you join our community of curious minds and playful learn
 ## Overview
 
 Playlab Learning Hub makes learning fun and engaging through interactive courses, hands-on projects, and a supportive community. Whether you're a beginner or an expert, our platform helps you build skills through play-based learning experiences.
-## Overview
 
 Playlab Learning Hub makes learning fun and engaging through self-guided learning.
 

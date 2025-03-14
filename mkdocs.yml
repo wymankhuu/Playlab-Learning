@@ -40,5 +40,15 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Features:
+    - Overview: user-guide/index.md
+  - About: 
+    - Our Team: about/team.md
+    - Contact Us: about/contact.md
+  - FAQ: faq.md
+
 copyright: Copyright &copy; 2025 Playlab
  
