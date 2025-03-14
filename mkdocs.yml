@@ -1,11 +1,6 @@
 site_name: Playlab Learning Hub
 site_url: https://wymankhuu.github.io/playlab-learning/
 repo_url: https://github.com/wymankhuu/playlab-learning
-docs_dir: .
-site_dir: site
-exclude_patterns:
-  - .github/
-  - venv/
 
 nav:
   - Home: docs/index.md
