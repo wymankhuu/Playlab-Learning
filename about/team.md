@@ -1,11 +1,11 @@
-# Our Team
+# The Playlab Team
 
-Meet the talented individuals who make our company successful.
+Meet the people of Playlab
 
 ## Leadership
 
-- :welcome: **Ian Serlin** - Co-Founder, CTO
-- :welcome: **Yusuf Ahmad** - Co-Founder, CEO
+- :wave: **Ian Serlin** - Co-Founder, CTO
+- :wave: **Yusuf Ahmad** - Co-Founder, CEO
 
 ## Engineering
 

@@ -1,8 +1,3 @@
----
-title: Contact Us
-description: Connect with the Playlab team
----
-
 # **Contact Us**
 
 Thank you for learning and building with Playlab. We are incredibly grateful for your support and enthusiasm as we explore this exciting new frontier together.
