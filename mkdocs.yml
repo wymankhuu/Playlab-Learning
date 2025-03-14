@@ -1,7 +1,29 @@
 site_name: Playlab Learning Hub
 site_url: https://wymankhuu.github.io/playlab-learning/
 repo_url: https://github.com/wymankhuu/playlab-learning
+docs_dir: .
+site_dir: site
+exclude_patterns:
+  - .github/
+  - venv/
 
+nav:
+  - Home: docs/index.md
+  - About:
+    - Contact Us: about/contactus.md
+    - Team: about/team.md
+  - Documentation:
+    - FAQ: docs/faq.md
+    - Getting Started: docs/getting-started.md
+    - User: docs/user
+  - Features:
+    - Overview: features/overview.md
+    - Feature 1: features/feature1.md
+    - Feature 2: features/feature2.md
+    - Feature 3: features/feature3.md
+
+theme:
+  name: material
 #Theme
 theme:
   name: material
