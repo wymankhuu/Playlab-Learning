@@ -3,22 +3,19 @@ site_url: https://wymankhuu.github.io/playlab-learning/
 repo_url: https://github.com/wymankhuu/playlab-learning
 
 nav:
-  - Home: docs/index.md
+  - Home: index.md
   - About:
     - Contact Us: about/contactus.md
     - Team: about/team.md
-  - Documentation:
-    - FAQ: docs/faq.md
-    - Getting Started: docs/getting-started.md
-    - User: docs/user
   - Features:
     - Overview: features/overview.md
     - Feature 1: features/feature1.md
     - Feature 2: features/feature2.md
     - Feature 3: features/feature3.md
+  - Documentation:
+    - FAQ: faq.md
+    - Getting Started: getting-started.md
 
-theme:
-  name: material
 #Theme
 theme:
   name: material
@@ -56,20 +53,3 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-
-# Navigation
-nav:
-  - Home: index.md
-  - Features:
-    - 'Feature 1': features/feature1.md
-    - 'Feature 2': features/feature2.md
-    - 'Feature 3': features/feature3.md
-    - 'Overview': features/overview.md
-  - Docs:
-    - 'FAQ': docs/faq.md
-    - 'Getting Started': docs/getting-started.md
-  - About:
-    - 'Contact Us': about/contactus.md
-    - 'Team': about/team.md
-
-copyright: Copyright &copy; 2025 Playlab
