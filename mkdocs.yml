@@ -43,12 +43,16 @@ markdown_extensions:
 # Navigation
 nav:
   - Home: index.md
-  - Getting Started: getting-started.md
+  - About:
+    - 'Contact Us': about/contactus.md
+    - 'Team': about/team.md
   - Features:
-    - Overview: user-guide/index.md
-  - About: 
-    - Our Team: about/team.md
-    - Contact Us: about/contact.md
-  - FAQ: faq.md
+    - 'Feature 1': features/feature1.md
+    - 'Feature 2': features/feature2.md
+    - 'Feature 3': features/feature3.md
+    - 'Overview': features/overview.md
+  - Docs:
+    - 'FAQ': docs/faq.md
+    - 'Getting Started': docs/getting-started.md
 
 copyright: Copyright &copy; 2025 Playlab
