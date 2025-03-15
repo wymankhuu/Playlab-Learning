@@ -1,8 +1,8 @@
-# **:material-hand-wave:Welcome to the Playlab Learning Hub**
+# **Welcome to the Playlab Learning Hub**
 
 We're thrilled to have you join the Playlab community. We hope that you continue to learng with us as you become a critical consumer and creator of AI for your context.
 
-## **:fontawesome-solid-circle-info:Overview**
+## **:fontawesome-solid-circle-info: Overview**
 
 Playlab Learning Hub is your one stop shop for a self-guided learning exploration. Whether you're a beginner or an expert, our we hope that you can find what you're looking for to support you in your Playlab journey.
 
