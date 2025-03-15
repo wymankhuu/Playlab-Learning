@@ -1,7 +1,11 @@
+# Basic settings
 site_name: Playlab Learning Hub
 site_url: https://wymankhuu.github.io/playlab-learning/
 repo_url: https://github.com/wymankhuu/playlab-learning
+docs_dir: docs
+use_directory_urls: true
 
+#Navigation
 nav:
   - Home: index.md
   - About:
@@ -53,9 +57,4 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 
-  # Basic settings
-docs_dir: docs
-site_dir: site
-use_directory_urls: true
-extra_css:
-  - assets/css/extra.css  
+
