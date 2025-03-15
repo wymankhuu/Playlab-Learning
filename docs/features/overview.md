@@ -13,7 +13,18 @@ Clear documentation helps you better understand what each feature does, why it e
 * Understand the rationale behind each feature's design
 * Learn best practices for implementing features into your Playlab projects
 * Troubleshoot common issues independently
+
 ---
+## **:material-file-search: How to Use This Documentation**
+
+* **Browse by Category**
+    * Use the navigation menu to explore features by category
+    * Start with core features if you're new to Playlab
+* **Search Functionality**
+    * Use the search bar to find specific features or topics
+    * Try different keywords if you don't find what you need initially
+---
+
 ## **:material-brain: Our Development Philosophy**
 
 At Playlab, we follow these principles when developing new features:
@@ -28,16 +39,6 @@ At Playlab, we follow these principles when developing new features:
 !!! info "Community-Driven Development"
     * Many features originate from Playlab community feedback and observed needs
     * We actively incorporate user testing feedback into feature iterations
-
----
-## **:material-file-search: How to Use This Documentation**
-
-* **Browse by Category**
-    * Use the navigation menu to explore features by category
-    * Start with core features if you're new to Playlab
-* **Search Functionality**
-    * Use the search bar to find specific features or topics
-    * Try different keywords if you don't find what you need initially
 
 ---
 ## **:material-email-box: Contact Us**

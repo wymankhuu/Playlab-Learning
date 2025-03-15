@@ -25,7 +25,7 @@ Watch a video demonstration of this feature:
 ## **:fontawesome-solid-clipboard-question: How do I use Richer Starter Inputs?**
 
 1. On the right hand navigation menu click the **Inputs** button.
-    * * <img src="assets/images/Richer%20Starter%20Inputs.gif" alt="Richer Starter Inputs">
+    * ![Gif](docs/assets/images/Richer Starter Inputs.gif)
 
 2. Click "**Add Starter Input**" and choose from the following options:
     * **Short Text:** Ideal for brief responses (e.g., names, grade, short answers).

@@ -58,6 +58,4 @@ docs_dir: docs
 site_dir: site
 use_directory_urls: true
 extra_css:
-  - assets/css/extra.css  # Optional
-include_files:
-    - 'assets/images/Richer Starter Inputs.gif'
+  - assets/css/extra.css  
