@@ -1,7 +1,5 @@
 # **Playlab Feature Documentation**
 
-![Playlab Feature Documentation Banner](path/to/feature-docs-banner.png)
-
 ## **🔍 About This Documentation**
 
 Welcome to the Playlab Feature Documentation. This resource provides comprehensive information about all features available in the Playlab platform, helping you make the most of our tools for AI literacy and learning.

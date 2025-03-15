@@ -1,7 +1,5 @@
 # **{Feature Name}**
 
-![Feature Banner Image](path/to/feature-banner.png)
-
 ## **🆕 What is this feature?**
 
 {Brief, engaging description of the new feature in 2-3 sentences. Focus on what users can do now that they couldn't before.}
