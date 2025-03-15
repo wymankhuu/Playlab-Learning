@@ -41,6 +41,6 @@ Your context matters. A lot. Create AI apps that respond to your challenges. And
         You will build your AI intution over time as you become more critical consumers and creators of AI.
 
 
-[Get Started](https://wymankhuu.github.io/playlab-learning/getting-started/){ .md-button .md-button--primary }
+[Get Started](https://wymankhuu.github.io/playlab-learning/features/overview/){ .md-button .md-button--primary }
 
 *Copyright © 2025 Playlab*

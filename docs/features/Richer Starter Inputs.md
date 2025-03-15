@@ -34,6 +34,7 @@ Watch a video demonstration of this feature:
     * **File Upload:** Accepts files up to 5MB, great for images, PDFs, CSVs, and other relevant documents.
 
 3. Configure your input settings, including making fields required or optional, and add any helpful placeholder text for users.
+    * ![RSIstill](docs/assets/images/rischerstarterinputsstill.png)
 
 ---
 
