@@ -25,7 +25,7 @@ Watch a video demonstration of this feature:
 ## **:fontawesome-solid-clipboard-question: How do I use Richer Starter Inputs?**
 
 1. On the right hand navigation menu click the **Inputs** button.
- * ![1](/docs/assets/images/Richer%20Starter%20Inputs.gif)
+ * ![1](https://github.com/wymankhuu/playlab-learning/blob/main/docs/assets/images/Richer%20Starter%20Inputs.gif)
     
 2. Click "**Add Starter Input**" and choose from the following options:
     * **Short Text:** Ideal for brief responses (e.g., names, grade, short answers).
@@ -34,7 +34,7 @@ Watch a video demonstration of this feature:
     * **File Upload:** Accepts files up to 5MB, great for images, PDFs, CSVs, and other relevant documents.
 
 3. Configure your input settings, including making fields required or optional, and add any helpful placeholder text for users.
- * ![2](/docs/assets/images/rischerstarterinputsstill.png)
+ * ![2](https://github.com/wymankhuu/playlab-learning/blob/main/docs/assets/images/rischerstarterinputsstill.png))
 ---
 
 ## **:material-head-question-outline: Why would I want to use Richer Starter Inputs?**
