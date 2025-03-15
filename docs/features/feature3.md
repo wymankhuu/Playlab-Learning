@@ -1,120 +1,68 @@
 # **{Feature Name}**
 
-![Feature Banner Image](path/to/feature-banner.png)
+## **:material-new-box: What is this feature?**
 
-## **🆕 What is this feature?**
-
-{Brief, engaging description of the new feature in 2-3 sentences. Focus on what users can do now that they couldn't before.}
+Text
 
 ---
 
-## **❓ Rationale for the feature**
+## **:material-chat-question: Rationale for the feature**
 
-{Explain why this feature was developed, what problem it solves, and how it enhances the user experience. Keep this to 3-4 sentences.}
+Text
 
 ---
 
-## **🎬 See it in action**
+## **:material-movie: See it in action**
 
 Watch a video demonstration of this feature:
 
-<!-- YouTube Embed -->
-[![{Feature Name} Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-
-<!-- Vimeo Embed -->
-<!-- <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/VIDEO_ID?h=7a3399953d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="{Feature Name} Demo"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script> -->
-
-<!-- Self-hosted Video -->
-<!-- <video width="100%" controls>
-  <source src="path/to/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> -->
+<div style="position: relative; padding-bottom: 52.376333656644036%; height: 0;"><iframe src="https://www.loom.com/embed/d2678de775d54095b2879f13838eddb6?sid=b832d345-979a-4481-b44a-4e0d12268e84" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 
-## **📋 How do I use {Feature Name}?**
+## **:fontawesome-solid-clipboard-question: How do I use {feature}?**
 
-1. **{Step One}**
-   * {Detailed instruction with screenshot or GIF}
-   * {Additional details if necessary}
+1. text
 
-2. **{Step Two}**
-   * {Detailed instruction with screenshot or GIF}
-   * {Additional details if necessary}
+2. text
 
-3. **{Step Three}**
-   * {Detailed instruction with screenshot or GIF}
-   * {Additional details if necessary}
+3. text
 
 ---
 
-## **💼 Use cases**
+## **:material-head-question-outline: Why would I want to use {feature}?**
 
-??? example "Use Case 1: {Brief Description}"
-    {Detailed explanation of the use case with specific examples}
-    
-    **Example:** {Concrete example of this use case in action}
-    
-    ![Use Case 1 Example](path/to/use-case-1.png)
+Text
 
-??? example "Use Case 2: {Brief Description}"
-    {Detailed explanation of the use case with specific examples}
-    
-    **Example:** {Concrete example of this use case in action}
-    
-    ![Use Case 2 Example](path/to/use-case-2.png)
+??? cite "Text"
+    Text
 
-??? example "Use Case 3: {Brief Description}"
-    {Detailed explanation of the use case with specific examples}
-    
-    **Example:** {Concrete example of this use case in action}
-    
-    ![Use Case 3 Example](path/to/use-case-3.png)
+
+---
+## **:material-lightbulb-on: Tips & Best Practices**
+
+??? tip "Essential Tips for Using Richer Starter Inputs"
+    Text
 
 ---
 
-## **💡 Tips & Best Practices**
+## **:material-frequently-asked-questions: FAQ**
 
-!!! tip "Optimization Tip"
-    {Specific tip on how to get the most out of this feature}
+??? question "Question"
+    Text
 
-!!! warning "Common Pitfall"
-    {Warning about a common mistake and how to avoid it}
+??? question "Question"
+    Text
 
-!!! success "Pro Tip"
-    {Advanced tip for power users}
-
-!!! info "Did You Know?"
-    {Interesting or lesser-known aspect of the feature}
-
+??? question "Question"
+    Text
 ---
 
-## **❓ FAQ**
+## **:fontawesome-solid-bullhorn: We Want Your Feedback!**
 
-??? question "Question 1: {Common question about the feature}"
-    {Detailed answer to the question}
+Have you tried {feature} We'd love to hear about your experience! 
 
-??? question "Question 2: {Common question about the feature}"
-    {Detailed answer to the question}
-
-??? question "Question 3: {Common question about the feature}"
-    {Detailed answer to the question}
+Join the discussion in our [Playlab Slack Channel](https://join.slack.com/t/playlabcommunity/shared_invite/zt-31mhwj7nl-49e1Mw5fYpyHJGOFyDIFtA).
 
 ---
-
-## **🔄 Related Features**
-
-* [{Related Feature 1}](link/to/related/feature1) - {Brief description of how it relates}
-* [{Related Feature 2}](link/to/related/feature2) - {Brief description of how it relates}
-* [{Related Feature 3}](link/to/related/feature3) - {Brief description of how it relates}
-
----
-
-## **📣 We Want Your Feedback!**
-
-Have you tried {Feature Name}? We'd love to hear about your experience! 
-[Share your feedback](link/to/feedback/form) or join the discussion in our [Playlab Slack Channel]([link/to/forum](https://join.slack.com/t/playlabcommunity/shared_invite/zt-31mhwj7nl-49e1Mw5fYpyHJGOFyDIFtA)).
-
----
-
-*Last updated: {Date}*
+Last updated: {date}

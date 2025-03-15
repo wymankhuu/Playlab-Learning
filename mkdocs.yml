@@ -6,7 +6,6 @@ nav:
   - Home: index.md
   - About:
     - Contact Us: about/contactus.md
-    - Team: about/team.md
   - Features:
     - Overview: features/overview.md
     - Richer Starter Inputs: features/Richer Starter Inputs.md
