@@ -25,7 +25,7 @@ Watch a video demonstration of this feature:
 ## **:fontawesome-solid-clipboard-question: How do I use Richer Starter Inputs?**
 
 1. On the right hand navigation menu click the **Inputs** button.
-    * ![Richer Starter Inputs](assets/images/Richer Starter Inputs.gif) width="800" height="600">
+    * * <img src="assets/images/Richer%20Starter%20Inputs.gif" alt="Richer Starter Inputs">
 
 2. Click "**Add Starter Input**" and choose from the following options:
     * **Short Text:** Ideal for brief responses (e.g., names, grade, short answers).
@@ -133,6 +133,7 @@ Choosing the right input types ensures the best experience for your users:
 ## **:fontawesome-solid-bullhorn: We Want Your Feedback!**
 
 Have you tried Richer Starter Inputs? We'd love to hear about your experience! 
+
 Join the discussion in our [Playlab Slack Channel](https://join.slack.com/t/playlabcommunity/shared_invite/zt-31mhwj7nl-49e1Mw5fYpyHJGOFyDIFtA).
 
 ---
