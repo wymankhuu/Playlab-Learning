@@ -3,7 +3,7 @@ site_name: Playlab Learning Hub
 site_url: https://wymankhuu.github.io/playlab-learning/
 repo_url: https://github.com/wymankhuu/playlab-learning
 docs_dir: docs
-use_directory_urls: false
+use_directory_urls: true
 
 #Navigation
 nav:
